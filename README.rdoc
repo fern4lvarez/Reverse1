@@ -1,5 +1,6 @@
 == Ruby Learning Course
 
-* Day 10, a) A simple text reversing service with Sinatra
+* Day 10, A simple text reversing service with Sinatra 
+* sinatrareverse1.heroku.com
 
 by Fernando Álvarez
